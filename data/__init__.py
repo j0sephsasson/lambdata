@@ -3,7 +3,7 @@
 import pandas
 import numpy
 
-def func(df):
-    """ CLEANS A DATA FRAME """ 
+def increment(x):
+    return x + 1
 
     
